@@ -69,8 +69,9 @@ hr-data-pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone git clone https://github.com/MajuFantagussi/hr-admission-automation.git
-cd hr-data-pipeline
+git clone https://github.com/MajuFantagussi/hr-admission-automation.git
+cd hr-admission-automation
+
 ```
 
 ### 2. Install dependencies
