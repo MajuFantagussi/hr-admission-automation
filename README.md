@@ -75,7 +75,8 @@ py -m pip --version
 ---
 
 ## 📁 Project Structure
-hr-data-pipeline/
+
+hr-admission-automation/
 │
 ├── entrada/
 │   └── colaboradores.xlsx       # Input spreadsheet with employee data
