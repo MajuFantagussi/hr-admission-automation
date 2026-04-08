@@ -76,6 +76,7 @@ py -m pip --version
 
 ## 📁 Project Structure
 
+```bash
 hr-admission-automation/
 │
 ├── entrada/
@@ -87,8 +88,7 @@ hr-admission-automation/
 ├── main.py                      # Main script
 ├── requirements.txt             # Project dependencies
 └── README.md
-
----
+```
 
 ## ▶️ How to Run
 
