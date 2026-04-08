@@ -69,7 +69,7 @@ hr-data-pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/hr-data-pipeline.git
+git clone git clone https://github.com/MajuFantagussi/hr-admission-automation.git
 cd hr-data-pipeline
 ```
 
